@@ -85,7 +85,7 @@
 
 ## tip1
 初始概率通过实验或者专家评定确定
-![[Pasted image 20240913152907.png]]
+![](.\\image\\Pasted image 20240913152907.png)
 ![[Pasted image 20240913152940.png]]
 ## tip2
 
