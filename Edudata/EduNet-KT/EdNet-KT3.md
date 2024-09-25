@@ -1,0 +1,11 @@
+In _Santa_, a student may participate in various learning activities aside from solving questions, such as reading through experts' commentary on a question or watching lectures provided by the system. EdNet-KT3 incorporates such learning activities by adding the following actions to the EdNet-KT2 dataset. Such actions can be utilized by to infer the impact of learning activities to each student's knowledge state. For example, one may analyze the time each student have spent studying a given material by subtracting the `timestamp`s of `enter` and `quit` actions and use this to study the effect of students' different learning behaviors.
+
+# Description
+| Field       | Annotation                                                                                                                                                    | Example       |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| action_type | [[EdNet-KT2#tip1]] besides 'quit'                                                                                                                             | enter         |
+| item_id     | [[EdNet-KT2#tip2]]                                                                                                                                            | b4957         |
+| source      | [[EdNet-KT2#tip3]]                                                                                                                                            | diagnosis     |
+| user_answer | `user_answer` is recorded when `action_type` is `respond`, which stands for the student's submitted answer. It is one of the alphabets `a`, `b`, `c`, and `d` | a             |
+| platform    | `platform` shows where the student used _Santa_, which is either **mobile** or **web**.                                                                       | mobile        |
+| timestamp   | the moment the question was given, represented as **Unix timestamp in milliseconds**.                                                                         | 1358114668713 |
