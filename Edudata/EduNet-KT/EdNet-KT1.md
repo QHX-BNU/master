@@ -1,6 +1,7 @@
 https://github.com/riiid/ednet?tab=readme-ov-file
 https://arxiv.org/pdf/1912.03072
-![[Pasted image 20240917211613.png]]
+![Pasted image 20240917211613](https://github.com/user-attachments/assets/362e0373-37db-4051-ac1a-4cb44d3efb38)
+
 
 It aims to prepare students for the TOEIC (Test of English for International Communication R ) Listening and Reading Test
 # Description
