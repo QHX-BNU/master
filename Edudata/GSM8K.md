@@ -1,6 +1,7 @@
 https://github.com/openai/grade-school-math
 State-of-the-art language models can match human performance on many tasks, but they still struggle to robustly perform multi-step mathematical reasoning. To diagnose the failures of current models and support research, we're releasing GSM8K, a dataset of 8.5K high quality linguistically diverse grade school math word problems. We find that even the largest transformer models fail to achieve high test performance, despite the conceptual simplicity of this problem distribution.
-![[Pasted image 20240924222332.png]]
+![Pasted image 20240924222332](https://github.com/user-attachments/assets/b8313962-c2e3-45d5-9f9b-85fba5ae8d27)
+
 # Description
 | Field    | Annotation                                                                                                                                                                                                  | Example                                                                                                                                                                                                                                                                                       |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
