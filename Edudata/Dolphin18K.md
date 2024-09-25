@@ -25,4 +25,5 @@ Dolphin18K is a dataset created for math word problem solving, containing 18,460
 2. “{}”: any order of variables is allowed.
 3. “|”: different answer formats.
 4. “or”: different solutions to the problem.
-![[Pasted image 20240925085329.png]]
+![Pasted image 20240925085329](https://github.com/user-attachments/assets/23e8cd23-58fa-48a9-95e5-09b84ea5498a)
+
