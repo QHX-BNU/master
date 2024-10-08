@@ -10,5 +10,6 @@
 | Answer        | the annodated answer (includes associated measurement units if exists)                                                                                                                                                                                                                                     | 9 (apples)                                               |
 | Formula       | the annotated formula                                                                                                                                                                                                                                                                                      | 7+2=9                                                    |
 # Tip1
-![[Pasted image 20240929103754.png]]
+![Pasted image 20240929103754](https://github.com/user-attachments/assets/c8e2320b-ae24-4641-a9be-597f667be68f)
+
 For multiple-step MWPs, the formula can be represented as an expression tree. The non-leaf nodes are operations and the leaf-nodes are operands. We denote the operation in the **root node** to be the **Solution-type** of this MWP, and the other operations on the non-leaf nodes are sub-types (in a depth-first travel manner) of the MWP and are denoted in the **Subtype** attribute of the **Solution-type**.
