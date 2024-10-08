@@ -85,21 +85,27 @@
 
 ## tip1
 初始概率通过实验或者专家评定确定
-![[Pasted image 20240913152907.png]]
-![[Pasted image 20240913152940.png]]
+![Pasted image 20240913152907](https://github.com/user-attachments/assets/b648eb99-9b99-4fe1-b597-90734db1228a)
+
+![Pasted image 20240913152940](https://github.com/user-attachments/assets/3660d555-c273-426c-9c4b-d89ed3359d92)
+
 ## tip2
 
 Title::Improving Contextual Models of Guessing and Slipping with a Truncated Training Set
-![[Pasted image 20240913174821.png]]
+![Pasted image 20240913174821](https://github.com/user-attachments/assets/f00e9627-aa3e-4c5c-9971-25ab32728a5d)
+
 上述$L_{n}$表示在第n次测试中学生掌握该知识的概率
-![[Pasted image 20240913175810.png]]
+![Pasted image 20240913175810](https://github.com/user-attachments/assets/ab175d81-8fc5-4a22-9f3f-b66ec90ead37)
+
 ## tip3
 暂且存疑
-![[Pasted image 20240914092407.png]]
+![Pasted image 20240914092407](https://github.com/user-attachments/assets/f63f3971-7c1f-4f00-8345-27571eb1878b)
+
 
 ## tip4
 是否表示知识的水平：知道，应用，分析，综合，创新
-![[Pasted image 20240914113909.png]]
+![Pasted image 20240914113909](https://github.com/user-attachments/assets/6e37a180-70ce-40f9-8599-9e9fb71785b2)
+
 
 properties-of-geometric-figures
 application:Isosceles triangle
