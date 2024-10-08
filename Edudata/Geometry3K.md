@@ -3,8 +3,10 @@ https://opendatalab.com/OpenDataLab/Geometry3K/explore/main
 one directory contains one questions
 
 ## Image
-![[img_diagram 1.png]]
-![[img_diagram_point.png]]
+![img_diagram 1](https://github.com/user-attachments/assets/d960cf8f-1e19-48fe-a93b-0be0a199a99c)
+
+![img_diagram_point](https://github.com/user-attachments/assets/a4a03503-e080-44ec-bc1a-7172e4c7db01)
+
 ## data.json
 | Field              | Annotation                                | Example                                        |
 | ------------------ | ----------------------------------------- | ---------------------------------------------- |
