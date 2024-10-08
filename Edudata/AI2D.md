@@ -7,7 +7,8 @@ https://www.kaggle.com/datasets/nhtanhnguyn0029/ai2d-zip
 | image_name | Uthe name of the image | 0.png   |
 
 
-![[Pasted image 20241003204534.png]]
+![Pasted image 20241003204534](https://github.com/user-attachments/assets/aa13ea78-05fc-4662-958c-9a4845214ba9)
+
 
 ## questions
 | Field     | Annotation                                       | Example       |
@@ -53,7 +54,8 @@ https://arxiv.org/pdf/1603.07396v1
 | meaningfulSpaces |                       |         |
 | relationships    |                       |         |
 | text             |                       |         |
-![[Pasted image 20241003205132.png]]
+![Pasted image 20241003205132](https://github.com/user-attachments/assets/2c72c157-8536-4d28-bc14-914b34184d7d)
+
 
 ## categories
 | Field     | Annotation                | Example  |
