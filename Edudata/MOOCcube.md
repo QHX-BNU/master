@@ -2,7 +2,8 @@ http://moocdata.cn/data/MOOCCube#MOOCCube
 数据库下载：
 https://drive.usercontent.google.com/download?id=1pv0_PLxmuJjOn1awjYIT56m4jFOEuO68&export=download
 # Entites
-![[Pasted image 20240925191755.png]]
+![Pasted image 20240925191755](https://github.com/user-attachments/assets/4b0eea59-d1b6-48c9-b834-fbc1af89c7ac)
+
 ## Concept
 
 | Field       | Annotation                    | Example                                                                                           |
@@ -90,7 +91,8 @@ https://drive.usercontent.google.com/download?id=1pv0_PLxmuJjOn1awjYIT56m4jFOEuO
 | text  | the text of the video slice | ["刘老师，解除劳动合同是在劳动合同订立后","又没有全部履行完毕以前","由于某种原因导致劳动合同一方或双方当事人","提前消灭劳动关系的法律行为","那协商解除劳动合同有什么特点呢","恩，协商解除劳动合同","就是指用人单位和劳动者在完全自愿的情况下，经过平等协商","达成一致提前终止劳动合同","那么这种方式适用的范围广、风险低、成本小、影响好","那么在实践中被广泛采用","下面，我们就一起来看一下","关于协商解除劳动合同的相关的情景案例","喂，你好","喂，小政啊，你好我是人力资源部的小玫","经公司决定，由于业务调整准备对你所在的采购部进行重组","我知道的，我们部门的人基本上都走光了，现在只剩下我们四个人了","现在公司想与你协商解除劳动合同","方案的有效期是一个星期，就是下个星期的这个时候","那公司有什么条件吗","如果大家书面同意与公司协商解除劳动合同的",......] |
 # Relations
 ***notice***：除了例子外，其他的均为方便读者理解补充的信息，原数据中没有
-![[Pasted image 20240927140951.png]]
+![Pasted image 20240927140951](https://github.com/user-attachments/assets/14668b50-9e9f-4c6d-b7d7-54fb4fa09814)
+
 ## concept-field
 | Field | Annotation               | Example           |
 | ----- | ------------------------ | ----------------- |
