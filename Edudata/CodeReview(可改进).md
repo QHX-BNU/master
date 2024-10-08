@@ -1,0 +1,25 @@
+https://zenodo.org/records/6900648
+https://www.kaggle.com/datasets/bulivington/code-review-data-v2
+
+# Description
+## Kaggle
+
+| Field    | Annotation                  | Example                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| patch    | the pathc of the bug        | [KEEP]func NewEthConfirmer(db *gorm.DB, ethClient eth.Client, config Config, keystore<br>[KEEP] 		keystore,<br>[KEEP] 		advisoryLocker,<br>[KEEP] 		estimator,<br>[ADD]		resumeCallback,<br>[KEEP] 		keys,<br>[KEEP] 		utils.NewMailbox(1),<br>[KEEP] 		context,                                                                                                                                                                                            |
+| lang     | the language of the program | go                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| prompt   | the prompt of the review    | analyze the code and write a code review, if there are no comments write: everything is fine, LGTM. If necessary, write a corrected version of the code.<br>code lang: go<br>code diff:<br>[KEEP]func NewEthConfirmer(db *gorm.DB, ethClient eth.Client, config Config, keystore<br>[KEEP] 		keystore,<br>[KEEP] 		advisoryLocker,<br>[KEEP] 		estimator,<br>[ADD]		resumeCallback,<br>[KEEP] 		keys,<br>[KEEP] 		utils.NewMailbox(1),<br>[KEEP] 		context, |
+| response | the response to the prompt  | everything is fine, LGTM.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| reward   | the reward of the respnse   | -5.3125                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+## Origin
+| Field     | Annotation                                                 | Example                                               |
+| --------- | ---------------------------------------------------------- | ----------------------------------------------------- |
+| old_file  | the origin of the program                                  | import torch<br><br><br><br><br><br><br>              |
+| diff_hunk | the difference between the program and the changed program | @@ -1 +1,2 @@\n import torch\n +import torch.nn as nn |
+| comment   | the comment of the difference                              | I don't think we need to import torch.nn here.        |
+| target    | the traget of the comment                                  | import torch                                          |
+- Quality Estimation: input with "old_file" and "diff_hunk", we need to predict that whether the code change is not good and needs a comment.
+    
+- Comment Generation: input with "old_file" and "diff_hunk", we need to generate a comment for the change. An expected comment is as the "comment" above.
+    
+- Code Refinement: input with "old_file", "diff_hunk", and "comment", we need to change the code again according to the review comment. For the above example, as the comment indicated we don't need _import torch.nn_, we just delete this line of code here

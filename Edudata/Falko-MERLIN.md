@@ -1,0 +1,8 @@
+https://huggingface.co/datasets/matejklemen/falko_merlin
+
+# Description
+| Field       | Annotation                        | Example                                                                                                                                                                                                                                                               |
+| ----------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| src_tokens  | the tokens of the source sentence | [ "In", "einem", "vollkommenen", "Welt", "würde", "es", "sein", ",", "dass", "die", "finanzielle", "Entlohnung", "eines", "Menschen", "dem", "Beitrag", "entspricht", ",", "den", "er", "/", "sie", "für", "die", "Gesellschaft", "geleistet", "hat", "." ]           |
+| tgt_tokens  | the tokens of the target sentence | [ "In", "einer", "vollkommenen", "Welt", "wäre", "es", "so", ",", "dass", "die", "finanzielle", "Entlohnung", "eines", "Menschen", "dem", "Beitrag", "entspricht", ",", "den", "er", "bzw.", "sie", "für", "die", "Gesellschaft", "geleistet", "hat", "." ]           |
+| corrections | the corrections of the sentence   | [ { "idx_src": [ 1 ], "idx_tgt": [ 1 ], "corr_type": "R:DET:FORM" }, { "idx_src": [ 4 ], "idx_tgt": [ 4 ], "corr_type": "R:AUX" }, { "idx_src": [ 6 ], "idx_tgt": [ 6 ], "corr_type": "R:OTHER" }, { "idx_src": [ 20 ], "idx_tgt": [ 20 ], "corr_type": "R:OTHER" } ] |
