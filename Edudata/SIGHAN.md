@@ -12,4 +12,5 @@ https://github.com/onebula/sighan_raw/tree/master/raw_data
 | wrong        | the text of the wrong       | 十只路口                                 |
 | correction   | the correction of the wrong | 十字路口                                 |
 # Example
-![[Pasted image 20241007150722.png]]
+![Pasted image 20241007150722](https://github.com/user-attachments/assets/4c53a719-c3ef-4701-98c3-9b6d2cacbafc)
+
