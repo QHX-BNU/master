@@ -1,4 +1,8 @@
-https://www.kaggle.com/datasets/nhtanhnguyn0029/ai2d-zip
+# Download
+https://www.kaggle.com/datasets/nhtanhnguyn0029/ai2d-zip<br>
+
+# Paper
+https://arxiv.org/pdf/1603.07396v1
 
 # Description
 ## image
