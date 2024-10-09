@@ -3,9 +3,9 @@ In _Santa_, a student may participate in various learning activities aside from
 # Description
 | Field       | Annotation                                                                                                                                                    | Example       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| action_type | [[EdNet-KT2#tip1]] besides 'quit'                                                                                                                             | enter         |
-| item_id     | [[EdNet-KT2#tip2]]                                                                                                                                            | b4957         |
-| source      | [[EdNet-KT2#tip3]]                                                                                                                                            | diagnosis     |
+| action_type | reference to``` EdNet-KT2 tip1``` besides 'quit'                                                                                                                             | enter         |
+| item_id     | reference to``` EdNet-KT2 tip2 ```                                                                                                                                           | b4957         |
+| source      | reference to ```EdNet-KT2tip3```                                                                                                                                            | diagnosis     |
 | user_answer | `user_answer` is recorded when `action_type` is `respond`, which stands for the student's submitted answer. It is one of the alphabets `a`, `b`, `c`, and `d` | a             |
 | platform    | `platform` shows where the student used _Santa_, which is either **mobile** or **web**.                                                                       | mobile        |
 | timestamp   | the moment the question was given, represented as **Unix timestamp in milliseconds**.                                                                         | 1358114668713 |
