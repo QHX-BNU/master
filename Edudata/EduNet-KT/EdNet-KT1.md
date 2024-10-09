@@ -1,5 +1,4 @@
-https://github.com/riiid/ednet?tab=readme-ov-file
-https://arxiv.org/pdf/1912.03072
+# Structure
 ![Pasted image 20240917211613](https://github.com/user-attachments/assets/362e0373-37db-4051-ac1a-4cb44d3efb38)
 
 
