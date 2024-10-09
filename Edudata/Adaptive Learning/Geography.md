@@ -1,3 +1,4 @@
+# Download
 https://www.fi.muni.cz/adaptivelearning/?a=data
 # Description
 ## Geography
@@ -6,7 +7,7 @@ https://www.fi.muni.cz/adaptivelearning/?a=data
 
 | Field          | Annotation                                                                                                                                      | Example             |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| id             | Answer identifier[[Geography#Tip1]]                                                                                                             | 2407                |
+| id             | Answer identifier [Tip1](#Tip1)                                                                                                             | 2407                |
 | user           | User’s identifier                                                                                                                               | 75                  |
 | place_asked    | Identifier of the asked place                                                                                                                   | 130                 |
 | place_answered | Identifier of the answered place; empty if the user answered “I do not know”                                                                    | 69                  |
@@ -24,9 +25,9 @@ https://www.fi.muni.cz/adaptivelearning/?a=data
 | id    | Place identifier                                            | 1       |
 | code  | Place code                                                  | us-al   |
 | name  | IPlace name                                                 | Alabama |
-| type  | type of place[[Geography#Place type]] | 7       |
+| type  | type of [place](#Place type) | 7       |
 | maps  | list of maps on which the place occurs,                     | [195]   |
-### Place type
+### [Place type](#Tip2)
 | Field | Annotation             | Example |
 | ----- | ---------------------- | ------- |
 | id    | identifier of the type | 1       |
