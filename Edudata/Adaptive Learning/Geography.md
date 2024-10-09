@@ -25,9 +25,9 @@ https://www.fi.muni.cz/adaptivelearning/?a=data
 | id    | Place identifier                                            | 1       |
 | code  | Place code                                                  | us-al   |
 | name  | IPlace name                                                 | Alabama |
-| type  | type of [place](#Place type) | 7       |
+| type  | type of [place](#Placetype) | 7       |
 | maps  | list of maps on which the place occurs,                     | [195]   |
-### Place type
+### Placetype
 | Field | Annotation             | Example |
 | ----- | ---------------------- | ------- |
 | id    | [identifier](#Tip2) of the type | 1       |
