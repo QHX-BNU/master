@@ -1,3 +1,6 @@
+# Download
+https://www.fi.muni.cz/adaptivelearning/?a=data
+
 # Description
 ## Skills
 | Field      | Annotation                     | Example |
@@ -6,6 +9,7 @@
 | identifier | string identifier of the skill | numbers |
 | name       |  czech name of the skill       | očítání |
 | parent     | parent skill id                | 1869    |
+
 The skills are organized in a tree structure. Note that only some of _the level 2 skills_ have children.
 ![Pasted image 20240924200641](https://github.com/user-attachments/assets/91c02364-4753-4ff8-a56b-4bf0624f384e)
 
@@ -17,7 +21,7 @@ Every item belongs to exactly one skill (mostly level 2 or level 3 skills). Feat
 | id            | the id of the item                               | 1                             |
 | question      | human readable question represented by item      | 1                             |
 | answer        | human readable correct answer to item            | 1                             |
-| visualization | type of visualization of question[[MatMat#Tip1]] | object_selection_answer       |
+| visualization | [type of visualization of question](#Tip1) | object_selection_answer       |
 | skill         | the smallest skill containing the item           | 1873                          |
 | skill_lvl_1   | skill on the level 1 containing the item         | 1870                          |
 | skill_lvl_2   | skill on the level 2 containing the item         | 1871                          |
