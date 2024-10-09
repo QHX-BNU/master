@@ -1,4 +1,8 @@
+# Download
 https://www.kaggle.com/datasets/evanhislupus/arc-dataset
+
+# Paper
+https://arxiv.org/pdf/1803.05457
 
 # Description
 | Field                    | Annotation                                       | Example                                                                                                                                                                                                                                          |
