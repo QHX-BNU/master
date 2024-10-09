@@ -1,4 +1,6 @@
-https://github.com/ruixiangcui/AGIEval
+# Download
+https://github.com/ruixiangcui/AGIEval<br>
+This dataset is for paper [AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models](https://arxiv.org/abs/2304.06364)
 
 # Description
 | Field    | Annotation                                                      | Example                                                                                                                                                                                                                                                      |
