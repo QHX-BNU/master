@@ -1,5 +1,5 @@
 # Download
-https://huggingface.co/datasets/clue/clue
+https://huggingface.co/datasets/clue/clue<br>
 https://github.com/CLUEbenchmark/
 
 ***notice***:取自中文论文摘要及其关键词，论文选自部分中文社会科学和自然科学核心期刊。 使用tf-idf生成伪造关键词与论文真实关键词混合，构造摘要-关键词对，任务目标是根据摘要判断关键词是否全部为真实关键
