@@ -27,10 +27,10 @@ https://www.fi.muni.cz/adaptivelearning/?a=data
 | name  | IPlace name                                                 | Alabama |
 | type  | type of [place](#Place type) | 7       |
 | maps  | list of maps on which the place occurs,                     | [195]   |
-### [Place type](#Tip2)
+### Place type
 | Field | Annotation             | Example |
 | ----- | ---------------------- | ------- |
-| id    | identifier of the type | 1       |
+| id    | [identifier](#Tip2) of the type | 1       |
 | name  | name of the type       | country |
 
 # Tip1
