@@ -1,5 +1,5 @@
 # Download
-https://github.com/CLUEbenchmark/CLUE
+https://github.com/CLUEbenchmark/CLUE<br>
 https://huggingface.co/datasets/clue/clue
 
  Long Text classification
