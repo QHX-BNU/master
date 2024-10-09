@@ -98,25 +98,9 @@ Title::Improving Contextual Models of Guessing and Slipping with a Truncated Tra
 ![Pasted image 20240913175810](https://github.com/user-attachments/assets/ab175d81-8fc5-4a22-9f3f-b66ec90ead37)
 
 ## tip3
-暂且存疑
 ![Pasted image 20240914092407](https://github.com/user-attachments/assets/f63f3971-7c1f-4f00-8345-27571eb1878b)
 
 
 ## tip4
-是否表示知识的水平：知道，应用，分析，综合，创新
+表示知识的水平：知道，应用，分析，综合，创新
 ![Pasted image 20240914113909](https://github.com/user-attachments/assets/6e37a180-70ce-40f9-8599-9e9fb71785b2)
-
-
-properties-of-geometric-figures
-application:Isosceles triangle
-有几种类型？
-## tip5
-有几种problemtype
-## tip6
-什么是first response
-## tip7
-???NaN
-## tip8
-全部正确预计的时间？？？
-## tip9
-后面三行什么意思？？
