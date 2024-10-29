@@ -1,0 +1,11 @@
+# Download
+https://huggingface.co/datasets/SetFit/qnli
+
+# Description
+| Field      | Annotation                             | Example                                                                                                                                                                                                                                                                     |
+| ---------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| idx        | the id of the task                     | 0                                                                                                                                                                                                                                                                           |
+| text1      | the first sentence                     | When did the third Digimon series begin?                                                                                                                                                                                                                                    |
+| text2      | the second sentence                    | Unlike the two seasons before it and most of the seasons that followed, Digimon Tamers takes a darker and more realistic approach to its story featuring Digimon who do not reincarnate after their deaths and more complex character development in the original Japanese. |
+| label      | the relationship between two sentences | 1                                                                                                                                                                                                                                                                           |
+| label_text | the text of the label                  | not entailment                                                                                                                                                                                                                                                              |
